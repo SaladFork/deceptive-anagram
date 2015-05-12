@@ -1,0 +1,16 @@
+{
+  "name": "DeceptiveAnagram",
+  "version": "1.0.0",
+  "description": "Solution to The Deceptive Anagram Question",
+  "scripts": {
+    "autotest": "mocha tests/*-test.js --compilers js:babel/register -w",
+    "test": "mocha tests/*-test.js --compilers js:babel/register"
+  },
+  "author": "Elad Shahar <Elad@EladShahar.com> (https://EladShahar.com)",
+  "devDependencies": {
+    "babel": "^5.1.11",
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4"
+  },
+  "private": true
+}
