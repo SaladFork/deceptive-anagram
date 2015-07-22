@@ -1,6 +1,8 @@
 
 # The Deceptive Anagram Question
 
+[![Build Status](https://travis-ci.org/SaladFork/deceptive-anagram.svg?branch=master)](https://travis-ci.org/SaladFork/deceptive-anagram)
+
 ## The Problem
 
 Originally asked on Hacker News, the question is stated as such:
